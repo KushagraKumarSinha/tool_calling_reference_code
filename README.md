@@ -1,1 +1,1 @@
-  Code sample for Tool Calling using OpenAI api (ReactJS + SupaBase)
+# Code sample for Tool Calling using OpenAI api (ReactJS + SupaBase)
