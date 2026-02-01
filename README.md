@@ -17,4 +17,3 @@ This repository demonstrates tool calling (function calling) using an OpenAI-com
 * How to send tool results back to the model
 * How to build AI-powered APIs with Deno
 
-This is not just code — it’s a mental model for tool calling.
