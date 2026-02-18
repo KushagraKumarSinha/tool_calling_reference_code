@@ -6,17 +6,11 @@ const corsHeaders = {
 };
 
 // Calculator functions
-function add_num(a: number, b: number): number {
-  return a + b;
-}
+function add_num(a: number, b: number): number {return a + b;}
 
-function sub_num(a: number, b: number): number {
-  return a - b;
-}
+function sub_num(a: number, b: number): number {return a - b;}
 
-function mul_num(a: number, b: number): number {
-  return a * b;
-}
+function mul_num(a: number, b: number): number {return a * b;}
 
 function div_num(a: number, b: number): number | string {
   if (b === 0) return "Error: division by zero";
