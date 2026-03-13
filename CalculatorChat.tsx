@@ -321,10 +321,7 @@ function ToolReasoningCard({ toolInfo }: { toolInfo: ToolInfo }) {
               </CardTitle>
             </div>
             <ChevronDown
-              className={cn(
-                "w-3 h-3 text-muted-foreground transition-transform",
-                isOpen && "rotate-180"
-              )}
+              className={cn("w-3 h-3 text-muted-foreground transition-transform", isOpen && "rotate-180")}
             />
           </CardHeader>
         </CollapsibleTrigger>
